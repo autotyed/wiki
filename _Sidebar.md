@@ -5,7 +5,7 @@ Custom sidebar page.
 stuff
 
 ### Deluge
-- [Configuration](/davidnewhall/autotyed/wiki/deluge/Configuration)
+- [Configuration](/davidnewhall/autotyed/wiki/Deluge-Configuration/)
 
 ### Lidarr
 
