@@ -42,7 +42,7 @@ I run all of the following software on a single Mac server.
 I'm trying to show you how to achieve what I did. Not just show you, but provide
 directions, scripts and startup daemons to make it all work. I'm also giving you
 the custom web interface (it's pretty simple, but elegant and powerful), and the
-nginx routes to make all these deserapte apps work on a single domain. Plex, 
+nginx routes to make all these desperate apps work on a single domain. Plex,
 specifically, has some very custom rules to make it work via SSL only and through
 nginx. You can run most of this stack on Linux, but if you do with a Mac (or a
 powerful hackintosh), you can even get full access to SecuritySpy and Indigo
@@ -51,12 +51,12 @@ powerful hackintosh), you can even get full access to SecuritySpy and Indigo
 Not only does my media system keep itself completely updated and provide a cool
 web interface, it has graphs! My network is completely graphed (switches,
 clients, router, access points - you name it) using unifi-poller. I created
-custom telegraf scripts to dump data into InfluxDB about the media libraries, so 
+custom telegraf scripts to dump data into InfluxDB about the media libraries, so
 that data is all graphed too. Glances and telegraf both create system-level
 metrics; things like load, disk usage, memory utilization, context switching and
 so on.
 
-There are so many custom pieces here, especially when you start digging into my 
+There are so many custom pieces here, especially when you start digging into my
 Indigo configuration, but I will attempt to document everything I can. I'm writing
 this for myself, really. I'm giving it to you, but this is my baby and I want to
 be able to recreate it if the water heater next to it ever explodes.
