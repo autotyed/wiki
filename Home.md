@@ -1,3 +1,5 @@
+# Autotyed Wiki Home
+
 #### This wiki is still under development! - March 20, 2019
 
 ## What The Hell Is This?!
