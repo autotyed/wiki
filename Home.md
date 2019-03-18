@@ -1,5 +1,7 @@
 #### This wiki is still under development! - March 20, 2019
 
+## What The Hell Is This?!
+
 [Autotyde](https://github.com/davidnewhall/autotyed) is a collection of scripts,
 web site (html, javascript, css, images), launchagents (for macos), systemd service
 units (for linux), and installation instructions. The components provided in this
@@ -65,5 +67,5 @@ be able to recreate it if the water heater next to it ever explodes.
 
 ## Next
 
-Start with the [Autotyde Installation](/davidnewhall/autotyed/wiki/Autotyde-Installation)
+Start with the [Autotyde Installation](Autotyde-Installation)
 wiki article.
