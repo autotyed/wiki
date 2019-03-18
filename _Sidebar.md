@@ -1,14 +1,20 @@
-Custom sidebar page.
+[Wiki Home](/davidnewhall/autotyed/wiki/)
 
-## macOS
-
-stuff
-
-### Deluge
-- [Configuration](/davidnewhall/autotyed/wiki/Deluge-Configuration/)
-
-### Lidarr
-
-## Linux
-
-## Docker
+# Wiki Topics
+- [Deluge](/davidnewhall/autotyed/wiki/Deluge)
+- [Sonarr](/davidnewhall/autotyed/wiki/Sonarr)
+- [Radarr](/davidnewhall/autotyed/wiki/Radarr)
+- [Lidarr](/davidnewhall/autotyed/wiki/Lidarr)
+- [Bazarr](/davidnewhall/autotyed/wiki/Bazarr)
+- [Jackett](/davidnewhall/autotyed/wiki/Jackett)
+- [NZBGet](/davidnewhall/autotyed/wiki/NZBGet)
+- [Plex](/davidnewhall/autotyed/wiki/Plex)
+- [Tautulli](/davidnewhall/autotyed/wiki/Tautulli)
+- [UniFI](/davidnewhall/autotyed/wiki/UniFi)
+- [SecuritySpy](/davidnewhall/autotyed/wiki/SecuritySpy)
+- [Indigo](/davidnewhall/autotyed/wiki/Indigo)
+- [Grafana](/davidnewhall/autotyed/wiki/Grafana)
+- [InfluxDB](/davidnewhall/autotyed/wiki/InfluxDB)
+- [Telegraf](/davidnewhall/autotyed/wiki/Telegraf)
+- [Glances](/davidnewhall/autotyed/wiki/Glances)
+- [Nginx](/davidnewhall/autotyed/wiki/Nginx)
