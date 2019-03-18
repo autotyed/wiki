@@ -7,7 +7,7 @@ repo allow you to quickly setup and configure a full-blown media, home automatio
 hub and security server on a Mac. If you're using Linux, then these components are
 limited to media, but could include other options in the future.
 
-I run all of the following software on a single Mac server.
+I run all of the following software on a single Mac server. It has a lot of cores and ram.
 
 #### My Mac Server
 
@@ -62,3 +62,8 @@ There are so many custom pieces here, especially when you start digging into my
 Indigo configuration, but I will attempt to document everything I can. I'm writing
 this for myself, really. I'm giving it to you, but this is my baby and I want to
 be able to recreate it if the water heater next to it ever explodes.
+
+## Next
+
+Start with the [Autotyde Installation](/davidnewhall/autotyed/wiki/Autotyde-Installation)
+wiki article.
