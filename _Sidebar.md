@@ -6,8 +6,10 @@
 - [Contributing](Contributing)
 - [Installation](Autotyed-Installation)
   - [MacOS](Autotyed-Installation-MacOS)
-  - [Linux](Autotyed-Installation-Linux) (unknown)
-  - [Docker](Autotyed-Installation-Docker) (unknown)
+  - [Linux](Autotyed-Installation-Linux) (incomplete)
+  - [Docker](Autotyed-Installation-Docker) (incomplete)
+
+[//]: # (Comment: If you change these, you have to change the other sidebar files too!)
 
 ## Components
 - [Deluge](Deluge)
@@ -27,4 +29,3 @@
   - [Grafana](Grafana)
   - [InfluxDB](InfluxDB)
   - [Telegraf](Telegraf)
-  - [Glances](Glances)
