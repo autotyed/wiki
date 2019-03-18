@@ -1,1 +1,1 @@
-base deluge page
+This page is reserved for detailed Deluge configurations and screenshots.

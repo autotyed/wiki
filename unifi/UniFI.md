@@ -1,1 +1,1 @@
-Base page for Ubiquiti UniFI controller.
+This page is reserved for detailed UniFI configurations and screenshots.

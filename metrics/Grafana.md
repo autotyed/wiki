@@ -1,2 +1,1 @@
-Grafana Base Page
-more to come!
+This page is reserved for detailed Grafana configurations and screenshots.

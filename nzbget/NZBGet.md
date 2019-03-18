@@ -1,1 +1,1 @@
-base nzbget page
+This page is reserved for detailed NZBGet configurations and screenshots.
