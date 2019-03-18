@@ -7,4 +7,4 @@ Autotyed ties all of that together and makes is easy to do.
 For now, we're only able to provide scripts, launch agents and instructions for
 MacOS, but we're leaving room to add more platforms in time. Help is requested.
 
-Click the [MacOS Installation](Autotyde-Installation-MacOS) link to continue.
+Click the [MacOS Installation](Autotyed-Installation-MacOS) link to continue.

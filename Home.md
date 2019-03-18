@@ -4,7 +4,7 @@
 
 ## What The Hell Is This?!
 
-[Autotyde](https://github.com/davidnewhall/autotyed) is a collection of scripts,
+[Autotyed](https://github.com/davidnewhall/autotyed) is a collection of scripts,
 web site (html, javascript, css, images), launchagents (for macos), systemd service
 units (for linux), and installation instructions. The components provided in this
 repo allow you to quickly setup and configure a full-blown media, home automation
@@ -43,7 +43,7 @@ I run all of the following software on a single Mac server. It has a lot of core
   - [unpacker-poller](https://github.com/davidnewhall/unpacker-poller) - to extract Deluge downloads
   - [unifi-poller](https://github.com/davidnewhall/unifi-poller) - optionally store UniFI controller metrics in InfluxDB
 
-#### Autotyde Purpose
+#### Autotyed Purpose
 
 I'm trying to show you how to achieve what I did. Not just show you, but provide
 directions, scripts and startup daemons to make it all work. I'm also giving you
@@ -69,5 +69,5 @@ be able to recreate it if the water heater next to it ever explodes.
 
 ## Next
 
-Start with the [Autotyde Installation](Autotyde-Installation)
+Start with the [Autotyed Installation](Autotyed-Installation)
 wiki article.
