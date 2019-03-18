@@ -1,5 +1,5 @@
-[Wiki Home](/davidnewhall/autotyed/wiki)
-[Metrics Home](/davidnewhall/autotyed/wiki/Metrics)
+- [Wiki Home](/davidnewhall/autotyed/wiki)
+- [Metrics Home](/davidnewhall/autotyed/wiki/Metrics)
 
 # Metrics Topics
 - [Grafana](/davidnewhall/autotyed/wiki/Grafana)

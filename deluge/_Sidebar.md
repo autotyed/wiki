@@ -1,4 +1,5 @@
-[Wiki Home](/davidnewhall/autotyed/wiki)
+- [Wiki Home](/davidnewhall/autotyed/wiki)
+- [Deluge Home](/davidnewhall/autotyed/wiki/Deluge)
 
 # Deluge
 - [Configuration](/davidnewhall/autotyed/wiki/Deluge-Configuration)
