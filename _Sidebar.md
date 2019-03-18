@@ -2,8 +2,12 @@
 
 ## Wiki Topics
 
-- [Installation](Autotyde-Installation)
 - [FAQ](Autotyde-FAQ)
+- [Contributing](Contributing)
+- [Installation](Autotyde-Installation)
+  - [MacOS](Autotyde-Installation-MacOS)
+  - [Linux](Autotyde-Installation-Linux) (unknown)
+  - [Docker](Autotyde-Installation-Docker) (unknown)
 
 ## Components
 - [Deluge](Deluge)
