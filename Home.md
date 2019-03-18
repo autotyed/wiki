@@ -1,3 +1,5 @@
+#### This wiki is still under development! - March 20, 2019
+
 [Autotyde](https://github.com/davidnewhall/autotyed) is a collection of scripts,
 web site (html, javascript, css, images), launchagents (for macos), systemd service
 units (for linux), and installation instructions. The components provided in this
