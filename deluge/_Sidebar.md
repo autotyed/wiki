@@ -19,7 +19,7 @@ These are mostly empty, but we're working on it!
   [//]: # (Comment: If you change these, you have to change the other sidebar files too!)
 
 
-## Components
+## Autotyed Components
 - [Deluge](Deluge)
 - [Sonarr](Sonarr)
 - [Radarr](Radarr)
